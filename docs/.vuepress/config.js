@@ -2,6 +2,7 @@ module.exports = {
   title: 'Web 文档',
   description: '前端常见问题',
   theme: 'reco',
+  base: '/doc/',
   locales: {
     '/': {
       lang: 'zh-CN'
